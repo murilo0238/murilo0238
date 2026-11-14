@@ -100,15 +100,7 @@ Meu foco é transformar necessidades reais em software que funciona: código org
       <br><br>
       <a href="https://github.com/murilo0238/var-judo"><b>Código e screenshots</b></a>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/murilo0238/fiscalizar-nordeste-goiano"><img src="assets/fiscalizar.jpg" alt="Painel do Fiscalizar Nordeste Goiano com achados cruzados; nomes desfocados" width="100%"></a>
-      <h3>Fiscalizar Nordeste Goiano</h3>
-      Painel de transparência municipal que coleta dados ao vivo de portais públicos, CGU, TCM-GO, Tesouro e Receita Federal e cruza as bases entre si em 14 verificações.
-      <br><br>
-      <code>Next.js</code> <code>TypeScript</code> <code>Python</code> <code>SQLite</code> <code>Vitest</code>
-      <br><br>
-      <a href="https://github.com/murilo0238/fiscalizar-nordeste-goiano"><b>Código e screenshots</b></a>
-    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
