@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="56" viewBox="0 0 1280 56" aria-hidden="true">
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2563FF" stop-opacity="0"/>
+      <stop offset="0.3" stop-color="#2563FF"/>
+      <stop offset="0.7" stop-color="#06B6D4"/>
+      <stop offset="1" stop-color="#06B6D4" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="16" width="1280" height="2" fill="url(#line)"/>
+  <g transform="translate(600 30) scale(0.75)">
+    <path d="M23 8H12L7 13V19L12 24H20L24 20V16" fill="none" stroke="#2563FF" stroke-width="3.2" stroke-linecap="square" transform="translate(-6 -8)"/>
+    <path d="M24 16H17" fill="none" stroke="#06B6D4" stroke-width="3.2" stroke-linecap="square" transform="translate(-6 -8)"/>
+  </g>
+  <text x="634" y="47" font-family="Montserrat, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#94A3B8" letter-spacing="1.5">GARRA STUDIOS</text>
+</svg>

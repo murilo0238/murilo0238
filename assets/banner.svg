@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="t d">
+  <title id="t">Murilo · Garra Studios</title>
+  <desc id="d">Desenvolvedor Full Stack. Sites, sistemas web, integrações e automações sob medida.</desc>
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2563FF"/>
+      <stop offset="1" stop-color="#06B6D4"/>
+    </linearGradient>
+    <linearGradient id="mark" x1="7" y1="8" x2="24" y2="24" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5B8BFF"/>
+      <stop offset="1" stop-color="#2563FF"/>
+    </linearGradient>
+    <radialGradient id="glowBlue" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#2563FF" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#2563FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowCyan" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#06B6D4" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#06B6D4" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#F8FAFC" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0B0F1A" stop-opacity="1"/>
+      <stop offset="0.35" stop-color="#0B0F1A" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#0B0F1A" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1280" height="340" rx="20"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="340" fill="#0B0F1A"/>
+    <rect width="1280" height="340" fill="url(#grid)"/>
+    <ellipse cx="1010" cy="60" rx="420" ry="260" fill="url(#glowBlue)"/>
+    <ellipse cx="1180" cy="330" rx="320" ry="200" fill="url(#glowCyan)"/>
+    <rect width="1280" height="340" fill="url(#fade)"/>
+    <rect y="0" width="1280" height="3" fill="url(#brand)"/>
+
+    <!-- Marca -->
+    <g transform="translate(72 64) scale(1.5)">
+      <path d="M23 8H12L7 13V19L12 24H20L24 20V16" fill="none" stroke="url(#mark)" stroke-width="3.2" stroke-linecap="square"/>
+      <path d="M24 16H17" fill="none" stroke="#06B6D4" stroke-width="3.2" stroke-linecap="square"/>
+    </g>
+    <text x="134" y="102" font-family="Montserrat, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="22" fill="#F8FAFC" letter-spacing="-0.2"><tspan font-weight="700">Garra</tspan><tspan font-weight="500" dx="7" fill-opacity="0.75">Studios</tspan></text>
+
+    <!-- Título -->
+    <text x="80" y="180" font-family="Montserrat, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="50" font-weight="800" fill="#F8FAFC" letter-spacing="-1.2">Sites, sistemas e</text>
+    <text x="80" y="236" font-family="Montserrat, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="50" font-weight="800" fill="url(#brand)" letter-spacing="-1.2">integrações sob medida.</text>
+    <text x="82" y="282" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#94A3B8">Murilo · Desenvolvedor Full Stack e fundador da Garra Studios</text>
+
+    <!-- Janela de terminal -->
+    <g transform="translate(812 74)">
+      <rect width="392" height="196" rx="14" fill="#111827" fill-opacity="0.92" stroke="#1F2937"/>
+      <rect width="392" height="36" rx="14" fill="#1F2937" fill-opacity="0.7"/>
+      <rect y="22" width="392" height="14" fill="#1F2937" fill-opacity="0.7"/>
+      <circle cx="22" cy="18" r="5" fill="#334155"/>
+      <circle cx="40" cy="18" r="5" fill="#334155"/>
+      <circle cx="58" cy="18" r="5" fill="#334155"/>
+      <text x="196" y="23" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="12" fill="#64748B">garra@studios: ~</text>
+      <g font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="15">
+        <text x="22" y="70"><tspan fill="#06B6D4">$</tspan><tspan fill="#F8FAFC" dx="8">garra deploy --prod</tspan></text>
+        <text x="22" y="100"><tspan fill="#22C55E">✓</tspan><tspan fill="#CBD5E1" dx="8">front-end  · React / Next.js</tspan></text>
+        <text x="22" y="126"><tspan fill="#22C55E">✓</tspan><tspan fill="#CBD5E1" dx="8">back-end   · Node / Python</tspan></text>
+        <text x="22" y="152"><tspan fill="#22C55E">✓</tspan><tspan fill="#CBD5E1" dx="8">integrações · APIs / WhatsApp</tspan></text>
+        <text x="22" y="178"><tspan fill="#6E95FF">→</tspan><tspan fill="#F8FAFC" dx="8">garrastudios.online</tspan><tspan fill="#06B6D4" dx="4">▍<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
