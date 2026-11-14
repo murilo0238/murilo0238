@@ -91,8 +91,10 @@ Meu foco é transformar necessidades reais em software que funciona: código org
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="middle">
       <a href="https://github.com/murilo0238/var-judo"><img src="assets/var-judo.jpg" alt="Janela principal do VAR Judô com duas câmeras e alerta de possível waza-ari" width="100%"></a>
+    </td>
+    <td width="50%" valign="middle">
       <h3>VAR Judô</h3>
       Árbitro de vídeo assistido para competições de judô: dois feeds de câmera com buffer de 30 s, detecção de lances com MediaPipe Pose, replay em câmera lenta e análise do frame com GPT-4o Vision.
       <br><br>
@@ -100,7 +102,6 @@ Meu foco é transformar necessidades reais em software que funciona: código org
       <br><br>
       <a href="https://github.com/murilo0238/var-judo"><b>Código e screenshots</b></a>
     </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
