@@ -71,6 +71,19 @@ Meu foco é transformar necessidades reais em software que funciona: código org
 
 <table>
   <tr>
+    <td width="50%" valign="middle">
+      <h3>AURA — Skincare &amp; Beauty</h3>
+      Loja virtual conceito para uma marca fictícia de skincare: identidade visual própria, catálogo com busca, filtros e ordenação, sacola salva no navegador e checkout demonstrativo com validação. Pensada primeiro para o celular.
+      <br><br>
+      <code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Zustand</code> <code>Motion</code>
+      <br><br>
+      <a href="https://aura.garrastudios.online"><b>Ver demo</b></a> · <a href="https://github.com/murilo0238/aura-skincare">Código</a>
+    </td>
+    <td width="50%" valign="middle">
+      <a href="https://aura.garrastudios.online"><img src="assets/aura.webp" alt="Página inicial da loja AURA, com o slogan Sua essência, em cada cuidado em volta de um frasco de sérum rosé" width="100%"></a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://atelier.garrastudios.online"><img src="assets/atelier.webp" alt="Página inicial da landing page ATELIER" width="100%"></a>
       <h3>ATELIER</h3>
